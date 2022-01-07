@@ -1,0 +1,65 @@
+
+
+.navbar a {
+    float: left;
+    display: block;
+    color:black ;
+    text-align: center;
+    padding: 14px 16px;
+    /* text-decoration: none; */
+    font-size: small;
+  }
+  
+  .navbar a:hover {
+    background:blue;
+    color: black;
+    background-color: mediumblue;
+  }
+  
+  .main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px; /* Used in this example to enable scrolling */
+  }
+  #JUST{
+    margin-bottom:-50px ;
+   color: green;
+   float: left;
+   
+   position: absolute;
+  
+  }
+  #HOME{
+    margin-top: 20px;
+    color: lightblue;
+    font-size:100;
+    
+   }
+  .row{
+    background-color: blue;
+    color: darkorange;
+     /* align-items: baseline;  */
+    text-align: center; 
+  } 
+ .container-1{
+   color: white;
+   font-size: small;
+
+ }
+ .container-2{
+  text-align: center;
+  margin-top:-240px;
+  color: white;
+  font-size: small;
+  /* margin-bottom:0px;  */
+ }
+ .container-3{ 
+    text-align:right;
+    margin-top:-250px; 
+    color: white;
+    padding-right: 20px;
+    font-size: small;
+ }
+ /* .container{
+   /* background-color:darkgray; */
+ /* } */ */
